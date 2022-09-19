@@ -1,3 +1,5 @@
+July 2022 Computing programming course by Teesside University
+
 [ASSESSMENT] Question 2: Smart Sandwich Menu (smart_sandwich.py)
 You are tasked with making the interactive menu from the previous question smarter!
 1.	Extend your answer to the previous question to not only search for a complete string match but search within each item to see if the ingredient is present.
